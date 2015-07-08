@@ -1,7 +1,8 @@
-An Fraction class for Java to avoid floating point errors over multiple operations by representing numbers as fractions. 
+#Fraction
 
-Example:
+An Fraction representation for Java to avoid floating point errors over multiple operations by representing numbers as fractions.
 
+##Example:
 Normally you would do this:
 	double a = 1.2;
 	double b = 2.4;
@@ -19,7 +20,7 @@ and you will get:
 	3.6
 
 
-Build Instructions:
+##Build Instructions:
 
 Fraction is built with Gradle, if you havent got this installed you can grab the latest copy from: http://www.gradle.org/downloads.html
 
